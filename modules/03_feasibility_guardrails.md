@@ -16,7 +16,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 4. **Weather Swap**
    
-   - If rain or cold season likely → make sure at least one indoor activity replaces outdoor ones.
+   -  If the weather is too cold (below 0 degrees) or if it is raining, swap the current activity to an indoor one.
 
 5. **Time Overrun**
    
